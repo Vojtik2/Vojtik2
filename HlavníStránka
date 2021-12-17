@@ -23,16 +23,17 @@
         <input type="search" placeholder="Vyhledávání" name="vyhledavani"> 
      
     </form>
+
     </div>
     
-    
+
 
     <a target="_blank" href="Plynové zbraně.html">zbraně na negry</a>
 
     <ul>
         <li><a href="Stránka.html">Hlavní Stránka</a></li>
-        <li><a href="news.asp">Kontakty</a></li>
-        <li><a href="contact.asp">O nás</a></li>
+        <li><a href="">Kontakty</a></li>
+        <li><a href="">O nás</a></li>
     </ul> 
     
 

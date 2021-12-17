@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Airsoft SHOP</title>
+    <link type="text/css" rel="stylesheet" href="StylyHlavníStránka.css">
+</head>
+
+
+
+<body>
+    
+    <div class="header">
+
+    <img alt="obrazek" src="https://www.armed.cz/data/cache/thumb_790-450-12/articles/116/1621607612/airsoft-game-match-team-player-photography-vancouver-british-columbia-canada.png">
+
+    <h1> Airsoft SHOP </h1>
+
+    <form method="POST" title="nevim" action="">
+
+        <input type="search" placeholder="Vyhledávání" name="vyhledavani"> 
+     
+    </form>
+    </div>
+    
+    
+
+    <a target="_blank" href="Plynové zbraně.html">zbraně na negry</a>
+
+    <ul>
+        <li><a href="Stránka.html">Hlavní Stránka</a></li>
+        <li><a href="news.asp">Kontakty</a></li>
+        <li><a href="contact.asp">O nás</a></li>
+    </ul> 
+    
+
+    
+</body>
+</html> 

@@ -1,0 +1,47 @@
+
+
+body {
+    background-color:green;
+}
+
+
+input {
+    background-color: wheat;
+    width: 20%;
+    height: 1cm;
+    border: solid;
+    
+}
+
+
+.header img {
+    float: left;
+    width: 25%;
+
+}
+  
+.header h1 {
+    position: relative;
+    background: wheat;
+    text-align: center;
+    border: solid;
+    margin-left: 24.5%;
+    margin-right: 30%;
+    height: 1cm;
+    letter-spacing: 2px;
+}
+
+.header form {  
+    
+    padding-left: 70%; 
+    width: 1500px;
+}
+
+a {
+   text-align: center ; 
+}
+
+ul {
+  list-style-type: none;
+}
+
